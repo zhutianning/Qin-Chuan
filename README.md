@@ -5,7 +5,7 @@
 * Graphic Communications and Digital Publishing, Shih Hsin University（Taiwan）
 * University of Arts London Central saint martins (UK)
 
-*Sample of his products:*
+### *Sample of his products:*
 
-![Image of Cover]
-(https://github.com/zhutianning/Qin-Chuan/blob/master/images/ccover.jpg)
+
+![Image of Cover](https://github.com/zhutianning/Qin-Chuan/blob/master/images/ccover.jpg)
