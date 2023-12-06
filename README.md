@@ -1,4 +1,4 @@
-# Qin-Chuan-Photo-Gallery
+# Ben's-Photo-Gallery
 
 ### Born in 1997, Portrait Photographer
 
